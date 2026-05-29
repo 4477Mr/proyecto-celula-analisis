@@ -1,4 +1,4 @@
 
-git add datos/dataset.csv scripts/analisis_datos.py .gitignore
+git add https://gist.github.com/khanusama20/ee33c2869dd5cf3cebdf020be1ca43f6 scripts/analisis_datos.py .gitignore
 git commit -m "feat(datos): AVPE-1: Crear estructura base e importar dataset de ventas"
 git push origin main
