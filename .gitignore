@@ -1,1 +1,15 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Checkpoints de entornos interactivos
+.ipynb_checkpoints/
+
+# Archivos de registro del sistema y logs
+*.log
+
+# Exclusión de archivos de configuración locales del IDE
+.DS_Store
+.vscode/
+.idea/
